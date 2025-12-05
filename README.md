@@ -46,3 +46,14 @@ flask==3.0.2
 python-dotenv==1.0.1
 azure-storage-blob==12.19.1
 ```
+
+---
+## Sample Input & Output
+
+- **Sample Input Form:**  
+![Sample Input](images/intake.png)
+
+- **Sample Output Result:**  
+![Sample Output](images/output.png)
+
+---
