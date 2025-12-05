@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5028eb20-3b2e-4279-880f-ce5057cc4c5b/resourceGroups/appsvc_linux_eastus/providers/Microsoft.Web/sites/SelfTriage",
+    "appService.deploySubpath": "."
+}

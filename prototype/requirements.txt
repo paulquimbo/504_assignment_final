@@ -1,4 +1,4 @@
-flask==3.0.3
-python-dotenv==1.0.1
-azure-storage-blob==12.19.1
-azure-identity==1.17.1
+flask
+python-dotenv
+azure-storage-blob
+azure-identity
